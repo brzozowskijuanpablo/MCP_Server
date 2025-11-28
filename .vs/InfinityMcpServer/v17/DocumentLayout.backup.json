@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|d:\\juanpablo\\proyectos\\ia\\mcpserver\\infinitymcpserver\\infinitymcpserver\\server\\mcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|solutionrelative:infinitymcpserver\\server\\mcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|d:\\juanpablo\\proyectos\\ia\\mcpserver\\infinitymcpserver\\infinitymcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|solutionrelative:infinitymcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|d:\\juanpablo\\proyectos\\ia\\mcpserver\\infinitymcpserver\\infinitymcpserver\\mcp-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|solutionrelative:infinitymcpserver\\mcp-config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|d:\\juanpablo\\proyectos\\ia\\mcpserver\\infinitymcpserver\\infinitymcpserver\\client\\sqlapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|solutionrelative:infinitymcpserver\\client\\sqlapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|d:\\juanpablo\\proyectos\\ia\\mcpserver\\infinitymcpserver\\infinitymcpserver\\models\\mcpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB6D78C-30C9-478B-B66C-95BA807FFA85}|InfinityMcpServer\\InfinityMcpServer.csproj|solutionrelative:infinitymcpserver\\models\\mcpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mcp-config.json",
+              "DocumentMoniker": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\mcp-config.json",
+              "RelativeDocumentMoniker": "InfinityMcpServer\\mcp-config.json",
+              "ToolTip": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\mcp-config.json",
+              "RelativeToolTip": "InfinityMcpServer\\mcp-config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T15:47:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlApiClient.cs",
+              "DocumentMoniker": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Client\\SqlApiClient.cs",
+              "RelativeDocumentMoniker": "InfinityMcpServer\\Client\\SqlApiClient.cs",
+              "ToolTip": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Client\\SqlApiClient.cs",
+              "RelativeToolTip": "InfinityMcpServer\\Client\\SqlApiClient.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:45:33.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "McpServer.cs",
+              "DocumentMoniker": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Server\\McpServer.cs",
+              "RelativeDocumentMoniker": "InfinityMcpServer\\Server\\McpServer.cs",
+              "ToolTip": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Server\\McpServer.cs",
+              "RelativeToolTip": "InfinityMcpServer\\Server\\McpServer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwMgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:43:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "McpModel.cs",
+              "DocumentMoniker": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Models\\McpModel.cs",
+              "RelativeDocumentMoniker": "InfinityMcpServer\\Models\\McpModel.cs",
+              "ToolTip": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Models\\McpModel.cs",
+              "RelativeToolTip": "InfinityMcpServer\\Models\\McpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:41:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Program.cs",
+              "RelativeDocumentMoniker": "InfinityMcpServer\\Program.cs",
+              "ToolTip": "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\Program.cs",
+              "RelativeToolTip": "InfinityMcpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:38:20.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

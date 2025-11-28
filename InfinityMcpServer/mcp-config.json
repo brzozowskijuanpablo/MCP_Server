@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "sql-query-server": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "D:\\JUANPABLO\\PROYECTOS\\IA\\McpServer\\InfinityMcpServer\\InfinityMcpServer\\\\InfinityMcpServer.csproj"
+      ],
+      "env": {
+        "SQL_API_URL": "http://localhost:7000"
+      }
+    }
+  }
+}
